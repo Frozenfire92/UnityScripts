@@ -6,7 +6,7 @@
  * License: Public Domain
  * 
  * Attach this script to a Unity 4.6 UI/Text object.
- * It will update the text with the time, hex value, and rgb
+ * It will update the text with the time and hex value
  * afterwards it updates the main cameras background color to match it.
  * 
  * Inspired by http://whatcolourisit.scn9a.org/
