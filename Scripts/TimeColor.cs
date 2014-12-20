@@ -1,6 +1,6 @@
 /* TimeColor.cs
  * 
- * Author:  Joel Kuntz - github.com/Frozenfire92
+ * Author:  Joel Kuntz - github.com/Frozenfire92/UnityScripts
  * Started: December 19 2014
  * Updated: December 20 2014
  * License: Public Domain
